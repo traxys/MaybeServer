@@ -1,0 +1,7 @@
+[package]
+name = "maybe_server"
+version = "0.1.0"
+authors = ["Quentin Boyer <qbsecond@gmail.com>", "Johyn Papin <johynpapin@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
